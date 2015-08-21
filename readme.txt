@@ -1,0 +1,1 @@
+Have you ever wondered how some of those huge JavaScript projects out there are getting built? This is done using "Module Patterns"? The awesome news for you is that by learning a couple of these patterns, you can make your apps easier to build and to maintain!
